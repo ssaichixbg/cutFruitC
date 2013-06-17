@@ -1,0 +1,1 @@
+unsigned char BANANA_NORMAL_BYTE[20][20];
